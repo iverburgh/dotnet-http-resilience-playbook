@@ -97,6 +97,9 @@ From the same monorepo, each on its own:
   build and deploy only what a change touches.
 - [Renovate on Azure DevOps](https://github.com/iverburgh/renovate-azure-devops-playbook) —
   automated dependency updates.
+- [OpenTelemetry observability in .NET](https://github.com/iverburgh/dotnet-opentelemetry-observability-playbook) —
+  traces, metrics and logs with OpenTelemetry and Application Insights, where these clients' metrics
+  end up.
 
 ## License
 
