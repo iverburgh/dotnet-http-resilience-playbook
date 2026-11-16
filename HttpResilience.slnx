@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HttpResilience/HttpResilience.csproj" />
+    <Project Path="src/HttpResilience.Redis/HttpResilience.Redis.csproj" />
+  </Folder>
+  <Folder Name="/samples/">
+    <Project Path="samples/PartnerDemo/PartnerDemo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HttpResilience.Tests/HttpResilience.Tests.csproj" />
+    <Project Path="tests/HttpResilience.Redis.Tests/HttpResilience.Redis.Tests.csproj" />
+  </Folder>
+</Solution>
