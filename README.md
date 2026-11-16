@@ -106,6 +106,8 @@ From the same monorepo, each on its own:
   complete, abandon or dead-letter: what a message handler does once these retries are exhausted.
 - [Azure SQL disaster recovery](https://github.com/iverburgh/azure-sql-disaster-recovery-playbook) —
   a guided point-in-time restore: pause processing, restore, swap, check and resume.
+- [Azure DevOps environments as code](https://github.com/iverburgh/azure-devops-environments-as-code-playbook) —
+  environments, approvals and checks as code, plus pipelines that deploy, redeploy or remove a whole environment.
 
 ## License
 
